@@ -1,10 +1,9 @@
 {
   "name": "jeanlucas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "src/index.js",
   "bin": {
-    "@jean/jeanlucas": "bin/jeanlucas",
     "jeanlucas": "bin/jeanlucas"
   },
   "publishConfig": {
@@ -17,7 +16,11 @@
     "type": "git",
     "url": "git+https://github.com/jeanlucaslima/jeanlucas.git"
   },
-  "keywords": ["cli", "cv", "resume"],
+  "keywords": [
+    "cli",
+    "cv",
+    "resume"
+  ],
   "author": "Jean Lucas Lima <github.com/jeanlucaslima>",
   "license": "MIT",
   "bugs": {
