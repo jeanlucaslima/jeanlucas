@@ -1,0 +1,30 @@
+{
+  "name": "jeanlucas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "bin": {
+    "@jean/jeanlucas": "bin/jeanlucas",
+    "jeanlucas": "bin/jeanlucas"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanlucaslima/jeanlucas.git"
+  },
+  "keywords": ["cli", "cv", "resume"],
+  "author": "Jean Lucas Lima <github.com/jeanlucaslima>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeanlucaslima/jeanlucas/issues"
+  },
+  "homepage": "https://github.com/jeanlucaslima/jeanlucas#readme",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
